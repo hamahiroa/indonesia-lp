@@ -13,21 +13,22 @@ const notoSansJP = Noto_Sans_JP({
 });
 
 export const metadata: Metadata = {
-  title: "NEXTMAKE Indonesia - 未来をつくる、インドネシアのものづくり人材へ",
+  title: "AI Indonesia - つくるを未来につなぐ、インドネシアの人づくり",
   description:
-    "未来の製造・技術・ITを支える若者たちの育成と、地域産業の成長を支援するプロジェクト。サクラネシア財団、インドネシア大学、STARUPが連携した革新的な人材育成プログラム。",
-  keywords: "インドネシア, IT人材育成, 製造業, DX教育, 産学連携, NEXTMAKE",
+    "インドネシアでの「人づくり」「技術者育成」を支える新しい産業人材支援プロジェクト。サクラネシア財団、インドネシア大学、STARUPが連携した革新的な人材育成プログラム。",
+  keywords:
+    "インドネシア, AI, 人材育成, ものづくり教育, 産学連携, AI Indonesia",
   openGraph: {
-    title: "NEXTMAKE Indonesia - 未来をつくる、インドネシアのものづくり人材へ",
+    title: "AI Indonesia - つくるを未来につなぐ、インドネシアの人づくり",
     description:
-      "未来の製造・技術・ITを支える若者たちの育成と、地域産業の成長を支援するプロジェクト",
+      "インドネシアでの「人づくり」「技術者育成」を支える新しい産業人材支援プロジェクト",
     type: "website",
     locale: "ja_JP",
   },
   twitter: {
     card: "summary_large_image",
-    title: "NEXTMAKE Indonesia",
-    description: "未来をつくる、インドネシアのものづくり人材へ",
+    title: "AI Indonesia",
+    description: "つくるを未来につなぐ、インドネシアの人づくり",
   },
 };
 
