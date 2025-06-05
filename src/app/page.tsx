@@ -152,7 +152,7 @@ export default function Home() {
       <section id="home" className="hero">
         <div className="hero-image-container">
           <Image
-            src="/image.png"
+            src="/hero.png"
             alt="AI Indonesia - インドネシアでの人材育成プロジェクト"
             fill
             className="hero-image"
